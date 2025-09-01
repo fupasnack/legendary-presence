@@ -1,0 +1,22 @@
+{
+  "name": "Presensi FUPA",
+  "short_name": "Presensi",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFD54F",
+  "theme_color": "#FFC107",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/google/material-design-icons/sprites/svg-sprite/svg-sprite-action.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://api.iconify.design/material-symbols/workspace-premium.svg?color=%23ffb300",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
